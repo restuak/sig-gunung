@@ -1,0 +1,18 @@
+nav .brand-logo {
+    margin-top: 8px;
+}
+.navbsar-fixed nav {
+    height: 100px !important;
+}
+nav i.material-icons .cari {
+	float: right;
+}
+i.large {
+    margin-top: 13px;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+    color: #ffab40;
+    margin-right: 0px;
+    color: #0288d1;
+}
